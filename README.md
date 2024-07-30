@@ -8,7 +8,7 @@
 
 - Angular
 - TypeScript
-- NgRx (`NgRx` là thư viện quản lý trạng thái cho các ứng dụng `Angular` và được xây dựng dựa trên kiến trúc `Redux`)
+- NgRx (`NgRx` là thư viện quản lý trạng thái cho `Angular` và được xây dựng dựa trên kiến trúc `Redux`)
 
 # RUN
 - `npm install`
