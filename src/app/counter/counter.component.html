@@ -1,0 +1,11 @@
+<div class="body">
+    <p id="title">Counter - NgRx - Angular</p>
+<div class="counter-container">
+    <div class="number" id="counter">{{count$ | async}}</div>
+    <div class="button-container">
+        <button class="button" (click)="decrement()">Giảm</button>
+        <button class="button" (click)="reset()">Reset</button>
+        <button class="button" (click)="increment()">Tăng</button>
+    </div>
+</div>
+</div>
